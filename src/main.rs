@@ -6,8 +6,11 @@ use serde::Deserialize;
 
 #[derive(Debug, Deserialize)]
 struct Record {
+    id: i32,
     name: String,
     quote: String,
+    location: String,
+    context: String,
 }
 
 impl Display for Record {

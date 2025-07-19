@@ -1,3 +1,3 @@
-name,quote
-Chert,Let's sit and watch the stars die
-Solanum,Are you ready ?
+id, name,quote,location, context
+1,Me,Is,No,For
+2,n,q,l,c
